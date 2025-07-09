@@ -72,3 +72,4 @@ Future Improvements
 This project demonstrates practical web development skills with Flask and provides a functional example of a simple e-commerce platform. It can be deployed locally or extended for real use cases with minimal upgrades.
 
 # project
+# project
